@@ -1,7 +1,6 @@
 import datetime
-import random as rd
 
-print("Hello nobody, I despise you all !")
+print("Hello World !")
 print("Hello the universe !")
 
 a = 2
